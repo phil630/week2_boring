@@ -1,0 +1,23 @@
+p{ 
+    color: purple;
+}
+
+
+.this_is_about_hamsters { border:
+8px yellow solid;width:75%;margin:auto;
+    }
+    
+    nav ul{list-style-type:none;
+            padding:0;
+            margin:0;
+            width:900px;
+            background-color: yellow;
+    }
+    
+    nav li {display:inline-block;
+            
+    }
+    
+    nav li a:hover{color:white;
+                    background-color:green;
+    }
